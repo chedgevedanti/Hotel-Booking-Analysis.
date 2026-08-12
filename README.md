@@ -6,7 +6,7 @@ This project analyzes hotel booking data using **Python and Power BI** to unders
 
 ## 🖼️ Dashboard Preview
 
-![Hotel Booking Analysis Dashboard](./Dashboard/hotel_booking_dashboard.png)
+![Hotel Booking Analysis Dashboard](./Dashboard/hotel%20booking%20dashboard.png)
 
 📁 **[View Power BI Dashboard](./Dashboard/)**
 
