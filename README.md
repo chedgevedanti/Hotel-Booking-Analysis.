@@ -62,5 +62,5 @@ This project analyzes hotel booking data using **Python and Power BI** to unders
 
 ## 👤 Author
 **Vedanti Chedge**
-Aspiring Data Analyst
+
 
