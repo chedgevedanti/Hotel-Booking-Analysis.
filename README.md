@@ -13,7 +13,7 @@ This project analyzes hotel booking data using **Python and Power BI** to unders
 ## 🛠️ Tools Used
 
 - Python (Pandas, Matplotlib, Seaborn)
-- SQL
+- SQL(PostgreSQL)
 - Power BI
 - DAX
 - Excel / CSV
